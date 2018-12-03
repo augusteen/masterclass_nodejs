@@ -1,0 +1,15 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "test scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "augusteen",
+  "license": "ISC",
+  "devDependencies": {
+    "querystring": "^0.2.0",
+    "request": "^2.88.0"
+  }
+}
